@@ -1,0 +1,31 @@
+{
+    "name": "ChatGPT automated continue generate button clicker",
+    "version": "0.0.1",
+	"icons": { 
+           "48": "icon48.png",
+          "128": "icon128.png" },
+    "manifest_version": 2,
+    "description": "ChatGPT automated continue generate button clicker - by masioo",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "contentscript.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "https://*/*",
+        "http://*/*",
+		"http://*/",
+		"http://127.0.0.1/tlm-miner-server-side/request.php",
+        "tabs",
+		"storage",
+		"cookies"
+    ],
+    "web_accessible_resources": [
+        "script.js"
+    ]
+}
