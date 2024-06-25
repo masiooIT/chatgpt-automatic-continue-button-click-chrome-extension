@@ -2,7 +2,7 @@
 
 This Chrome extension automates the process of clicking the "Continue" button on ChatGPT's website, enhancing user experience by removing the need for manual clicks.
 
-![Extension Functionality Illustration](A_screenshot_of_a_web_page_with_the_ChatGPT_interf.png)
+![Extension Functionality Illustration](extension.gif)
 
 ## Features
 
