@@ -1,3 +1,4 @@
+![Extension Functionality Illustration](A_screenshot_of_a_web_page_with_the_ChatGPT_interf.png)
 
 # ChatGPT Automatic Continue Button Click Chrome Extension
 
@@ -35,6 +36,3 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Screenshot
-
-![Extension Functionality Illustration](A_screenshot_of_a_web_page_with_the_ChatGPT_interf.png)
